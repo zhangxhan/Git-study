@@ -41,11 +41,12 @@ int main()
 	//vector<int> res = { 5,2,6,1 };
 	//countSmaller(res);
 
-	//vector<int> res = { 2, 3, 1, 2, 4, 3 };
-	//cout << minSubArrayLen(7, res);
+	vector<int> res = { 2, 3, 1, 2, 4, 3 };
+	cout << minSubArrayLen(7, res);
 
 	//连续整数求和
-
+	vector<int> res = { 2, 3, 1, 2, 4, 3 };
+	cout << minSubArrayLen(7, res);
 
 
 
