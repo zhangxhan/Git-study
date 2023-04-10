@@ -45,10 +45,7 @@ int main()
 	//cout << minSubArrayLen(7, res);
 
 	//连续整数求和
-	clock_t start = clock();
-	consecutiveNumbersSum(151);
-	clock_t end = clock();
-	cout << static_cast<double>(end - start) << "ms" << endl;
+
 
 	start = clock();
 	consecutiveNumbersSum2(151);
