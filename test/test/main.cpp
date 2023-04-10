@@ -52,10 +52,7 @@ int main()
 	end = clock();
 	cout << static_cast<double>(end - start) << "ms" << endl;
 
-	start = clock();
-	consecutiveNumbersSum3(151);
-	end = clock();
-	cout << static_cast<double>(end - start) << "ms" << endl;
+
 
 	return 0;
 }
