@@ -47,11 +47,6 @@ int main()
 	//连续整数求和
 
 
-	start = clock();
-	consecutiveNumbersSum2(151);
-	end = clock();
-	cout << static_cast<double>(end - start) << "ms" << endl;
-
 
 
 	return 0;
